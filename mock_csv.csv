@@ -1,0 +1,11 @@
+Patient ID,Age,Distance to Pharmacy (mi),Has Vehicle,Primary Language,Number of Meds
+PT-2001,45,2.50,Yes,English,2
+PT-2002,72,12.40,No,English,5
+PT-2003,60,6.50,Yes,Spanish,3
+PT-2004,80,8.90,No,Mandarin,7
+PT-2005,50,14.50,Yes,English,1
+PT-2006,38,3.10,No,English,4
+PT-2007,65,7.20,Yes,Vietnamese,5
+PT-2008,55,6.80,No,English,2
+PT-2009,42,1.50,Yes,Spanish,1
+PT-2010,77,0.80,Yes,English,6
