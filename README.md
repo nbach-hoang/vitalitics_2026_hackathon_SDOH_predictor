@@ -1,4 +1,5 @@
-SDOH Risk Predictor & Care Dashboard
+## SDOH Risk Predictor & Care Dashboard
+Online version available: https://vitalitics2026hackathon-sdoh-predictor.streamlit.app/
 
 ## The Problem
 Every year, millions of patients are discharged from hospitals with life-saving medications, yet up to 50% fail to adhere to their prescriptions. Often, this is due to **Social Determinants of Health (SDOH)** such as transportation barriers or low health literacy. Doctors have access to this data, but it is siloed in complex spreadsheets, making it difficult to use during clinical decision-making.
